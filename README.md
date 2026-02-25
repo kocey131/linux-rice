@@ -1,2 +1,2 @@
-This is to track setups accross different configurations 
-Should add stuff eventually... If I remember to 
+Tracking setups across different configurations.
+Should add more stuff eventually… if I remember to
